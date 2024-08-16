@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wheel-picker2",
+  "name": "react-native-picky-wheel-fork",
   "version": "1.0.0",
   "description": "An awesome native wheel picker component for react-native",
   "main": "lib/commonjs/index",
@@ -38,15 +38,15 @@
     "picker",
     "wheel"
   ],
-  "repository": "https://github.com/kitolog/react-native-picky",
+  "repository": "https://github.com/viveaesthetics/react-native-picky-wheel-fork",
   "author": "Liam Andrew <liam.e.andrew@gmail.com> (https://github.com/Liamandrew)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kitolog/react-native-picky/issues"
+    "url": "https://github.com/viveaesthetics/react-native-picky-wheel-fork/issues"
   },
-  "homepage": "https://github.com/kitolog/react-native-picky#readme",
+  "homepage": "https://github.com/viveaesthetics/react-native-picky-wheel-fork#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
