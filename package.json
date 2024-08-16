@@ -1,5 +1,5 @@
 {
-  "name": "react-native-picky-wheel-fork",
+  "name": "@viveaesthetics/react-native-picky-wheel-fork",
   "version": "1.0.0",
   "description": "An awesome native wheel picker component for react-native",
   "main": "lib/commonjs/index",
