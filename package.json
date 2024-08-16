@@ -1,6 +1,6 @@
 {
   "name": "@viveaesthetics/react-native-picky-wheel-fork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An awesome native wheel picker component for react-native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -38,7 +38,7 @@
     "picker",
     "wheel"
   ],
-  "repository": "https://github.com/viveaesthetics/react-native-picky-wheel-fork",
+  "repository": "https://github.com/viveaesthetics/react-native-picky-wheel-fork.git",
   "author": "Liam Andrew <liam.e.andrew@gmail.com> (https://github.com/Liamandrew)",
   "license": "MIT",
   "bugs": {
