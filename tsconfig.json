@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "react-native-picky": ["./src/index"]
+      "@viveaesthetics/react-native-picky-wheel-fork": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

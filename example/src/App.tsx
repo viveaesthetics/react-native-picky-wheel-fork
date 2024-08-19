@@ -1,7 +1,11 @@
 import * as React from 'react';
 
 import { ScrollView, StyleSheet, View } from 'react-native';
-import { Picker, PickerColumn, PickerItem } from 'react-native-picky';
+import {
+  Picker,
+  PickerColumn,
+  PickerItem,
+} from '@viveaesthetics/react-native-picky-wheel-fork';
 
 export default function App() {
   return (

@@ -67,5 +67,5 @@ dependencies {
     // implementation "cn.aigestudio.wheelpicker:WheelPicker:1.1.3"
     // JCenter being deprecated, the above package is not available anymore.
     // So, we have to use the local .aar file instead.
-    compileOnly files('libs/WheelPicker-21cb7b1b887944423804705d68193e8a753ee75a.aar')
+    implementation files('libs/WheelPicker-21cb7b1b887944423804705d68193e8a753ee75a.aar')
 }
